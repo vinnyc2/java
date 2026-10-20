@@ -6,8 +6,6 @@ Challenge 1:
 Write a function "print" which takes in a string and displays it to the console. Test the function to make sure it works.
 
 
-Challenge 2:
-
 Write a function "FtoC" that converts temperature in degrees Fahrenheit to Celsius. The function will take in temperature in Fahrenheit and return the temperature in Celcius. 
 Google the formula.
 
